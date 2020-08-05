@@ -1,0 +1,2 @@
+C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NT Productions\CopyAndTransferQT.pdb
+E:\Plugins\Learning\Adobe After Effects CC 15.0 Win SDK\Examples\Tutorials\Copy and Transfer Modes QT\Win\x64\Debug\CopyAndTransferQT.pdb
